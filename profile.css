@@ -26,7 +26,15 @@ h1
 }
 .j
 {
-    float:right;
+    width:30%;
+}
+.k
+{
+    width:60%;
+}
+.j,.k
+{
+    display:inline-block;
 }
 .left
 {
