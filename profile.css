@@ -24,17 +24,17 @@ h1
     margin-top: -6px;
     margin-bottom: -6px;
 }
+.k {
+    width:60%;
+
+}
 .j
 {
     width:30%;
 }
-.k
+.k,.j
 {
-    width:60%;
-}
-.j,.k
-{
-    display:inline-block;
+    display: inline-block;
 }
 .left
 {
